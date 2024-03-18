@@ -43,7 +43,7 @@ _salah format dan bot error = block_
 
 Konsekuensi :
 
- Melanggar rules bot akan keluar 
+Melanggar rules bot akan keluar 
 
 Rules ini untuk kenyamanan semua yang memakai
 bot ini
